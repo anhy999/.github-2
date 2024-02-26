@@ -74,8 +74,6 @@ Harassment includes:
 ### Enforcement
 - Participants asked to stop any harassing behavior are expected to comply immediately, even if participants do not agree with or fully acknowledge the behavior being reported.
 - If a participant violates the Code of Conduct, community moderators may take any action they deem appropriate to maintaining a welcoming environment for all participants, up to and including expulsion from an event and/or the community and identification of the participant as a violator. If a community moderator is not available at an event, the event organizer should ask violators to leave and then report the situation to community moderators for further deliberation.
-- There will always be at least one moderator “on-call” if no moderators are able to attend an event
-Community moderators and/or event organizers may take action to redress anything designed to, or with the clear impact of, disrupting or making an environment hostile for any participants.
 - We expect participants to respect the Code of Conduct in all Algolia communities and at all Algolia or Algolia related events.
 
 ### Moderators
@@ -101,9 +99,13 @@ Please also note:
 - We will not name harassment victims without their consent. At our discretion, we may publicly name a person about whom we’ve received harassment complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of the Algolia Community or the general public.
 
 ### Code of Conduct Feedback
-Feedback is always appreciated! You can create an [issue in the Github repository](https://github.com/algolia/community-code-of-conduct/issues).
 
 The Algolia Community Code of Conduct is a living document. It will grow with the Algolia Community to ensure we are providing a safe, inclusive, welcoming, and harassment-free space and experience for all community participants.
+
+Feedback is always appreciated! You can create an [issue in the Github repository](https://github.com/algolia/community-code-of-conduct/issues).
+
+Please note that by sending us your feedback, you grant us a non-exclusive, perpetual, irrevocable, transferable license to use the feedback and ideas generated from the feedback without any restrictions, attribution, or compensation to you
+
 
 ### Sources
 "Keen IO Community Code of Conduct", [https://github.com/keen/community-code-of-conduct](https://github.com/keen/community-code-of-conduct)
